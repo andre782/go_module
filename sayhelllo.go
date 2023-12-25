@@ -1,5 +1,5 @@
 package GOMODULE
 
 func SayHello() string {
-	return "Hello"
+	return "Hello Andre ganteng"
 }
