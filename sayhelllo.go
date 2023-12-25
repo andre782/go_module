@@ -1,5 +1,5 @@
 package GOMODULE
 
-func SayHello() string {
-	return "Hello Andre ganteng"
+func SayHello(name string) string {
+	return "Hello Andre" + name
 }
